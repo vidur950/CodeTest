@@ -1,0 +1,14 @@
+New York, LA
+San Francisco, LA
+Boston, New York
+Dallas, Houston
+Atlanta, New York
+Seattle, Columbus
+Dallas, Columbus
+Washington DC, New York
+Philadelphia, Boston
+Greenville, Miami
+Miami, Omaha
+Omaha, Philadelphia
+Pasadena, Seattle
+Chicago, New York
